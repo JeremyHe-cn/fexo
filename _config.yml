@@ -119,9 +119,9 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 google_analytics:
 
 # Comment service
-disqus_shortname: 
+disqus_shortname: disqus_Bt7tDMpkoM
 # hypercomments_id: 89821
-gentie_key: 1bc56f9599fa479a890196981ff9f0b4
+#gentie_key: 1bc56f9599fa479a890196981ff9f0b4
 
 # 不算子,文章访问量统计和显示
 busuanzi: true
