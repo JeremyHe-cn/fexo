@@ -76,15 +76,15 @@ backtop:
 
 donation:
   show: true
-  btn_text: 支持一下
+  btn_text: 一起 Coding ???
   tip: 严于己，宽于人｡◕‿◕｡
   items:
-    #- type: 微信
-      #text: 微信扫一扫
-      #imgUrl: /images/qr-wechat.png
-    - type: 支付宝
-      text: 支付宝扫一扫
-      imgUrl: /images/qr-alipay.png
+    - type: 微信
+      text: 微信扫一扫
+      imgUrl: /images/qr-wechat.png
+    #- type: 支付宝
+      #text: 支付宝扫一扫
+      #imgUrl: /images/qr-alipay.png
 
 
 post:
@@ -119,7 +119,21 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 google_analytics:
 
 # Comment service
-disqus_shortname: jeremyhe
+# disqus_shortname: jeremyhe
+# hypercomments_id: 89821
+# gentie_key: d16a7241e7cd4b389584ed8db2a4e8bc
+
+# Valine comment system  https://valine.js.org
+valine:
+  enable: true # 如果使用valine，请设置改之为true
+  appid: FkkXjkB8RmuNQxEhqk6BM3Ww-gzGzoHsz # your leancloud application appid
+  appkey: ReNBuhWx88Con7IipJ5tLg79 # your leancloud application appkey
+  notify: true # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: true # Verification code
+  placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!' # comment box placeholder
+  avatar: mm # gravatar style
+  guest_info: nick,mail,link # custom comment header
+  pageSize: 10 # pagination size
 
 # 不算子,文章访问量统计和显示
 busuanzi: true
