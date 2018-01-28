@@ -77,7 +77,7 @@ backtop:
 donation:
   show: true
   btn_text: 一起 Coding ???
-  tip: 严于己，宽于人｡◕‿◕｡
+  tip: 微信｡◕‿◕｡
   items:
     - type: 微信
       text: 微信扫一扫
