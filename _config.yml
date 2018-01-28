@@ -171,11 +171,11 @@ about:
     #url: http://zheng-ji.info/
     #avatar: https://avatars3.githubusercontent.com/u/1414745?v=3&s=100
 
-#project:
-  #- type: personal
-    #name: fexo
-    #url: https://github.com/forsigner/fexo
-    #intro: A minimalist design theme for hexo
+project:
+  - type: personal
+    name: KoSP
+    url: https://github.com/JeremyHe-cn/KoSP
+    intro: 采用 Kotlin 实现，用于简化 SharePreference
   # - type: company
   #   name: Fexo
   #   url: https://github.com/forsigner/fexo
