@@ -13,15 +13,15 @@ favicon: /images/favicon.ico
 keywords: android,mac,ubuntu,Hexo主题,linux
 
 home_nav:
-  - name: Articles
+  - name: 文章
     url: /archives
     target_blank: false #不在新页面打开
-  - name: Category
+  - name: 分类
     url: /category/
     target_blank: false #在新页面打开
-  #- name: Project
-    #url: /project/
-    #target_blank: true #在新页面打开
+  - name: 项目
+    url: /project/
+    target_blank: true #在新页面打开
   - name: Github
     url: https://github.com/JeremyHe-cn
     target_blank: true
@@ -48,7 +48,7 @@ page_nav_style: CIRCLE  # CIRCLE|ROUND_RECT
 
 # 面包屑
 breadcrumb:
-  isShow: true # true|fase
+  isShow: false # true|fase
 
 # 盒子
 toolbox:
@@ -76,7 +76,7 @@ backtop:
 
 donation:
   show: true
-  btn_text: 一起 Coding ???
+  btn_text: 有问题?
   tip: 微信｡◕‿◕｡
   items:
     - type: 微信
