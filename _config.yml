@@ -75,8 +75,8 @@ backtop:
   about: false
 
 donation:
-  show: false
-  btn_text: 有问题?
+  show: true
+  btn_text: 联系作者
   tip: 微信｡◕‿◕｡
   items:
     - type: 微信
