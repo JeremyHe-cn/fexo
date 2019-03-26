@@ -145,18 +145,13 @@ about:
   - type: me
     icon: icon-user
     text_value:
-    - "JeremyHe (AL)，Android Developer, Vimer."
+    - "AL，Android Developer, Vimer."
     - "在创造的路上越走越深。"
   - type: Github
     icon: icon-github
     text_key: Github
-    text_value: "@JeremyHe"
-    text_value_url: https://github.com/JeremyHe-cn
-  #- type: weibo
-    #icon: icon-weibo
-    #text_key: 微博
-    #text_value: "@forsigner"
-    #text_value_url: http://weibo.com/u/1847075964
+    text_value: "@alvminvm"
+    text_value_url: https://github.com/alvminvm
   - type: mail
     icon: icon-mail
     text_value: "alvminvm@qq.com"
@@ -173,7 +168,7 @@ about:
 project:
   - type: personal
     name: KoSP
-    url: https://github.com/JeremyHe-cn/KoSP
+    url: https://github.com/alvminvm/KoSP
     intro: 采用 Kotlin 实现，用于简化 SharePreference
   # - type: company
   #   name: Fexo
